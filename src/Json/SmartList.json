@@ -1,0 +1,86 @@
+[
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h77/hc9/17090388230174/apple-iphone-12-pro-max-128gb-sinij-100658112-1.png",
+    "title": "Apple iPhone 12 Pro Blue",
+    "overview": "тип экрана: OLED, Super Retina XDR,диагональ: 6.1 дюйм,объем оперативной памяти: 6144мб,объем встроенной памяти: 512 ГБ,емкость аккумулятора: 2775 мАч",
+    "price": "645 990KZT",
+    "id": 0
+  },
+  {
+    "poster": "https://kaspi.kz/medias/sys_master/images/images/h48/h64/17090504523806/apple-iphone-12-pro-128gb-zolotistyj-100657188-1.png",
+    "title": "Apple iPhone 12 Pro Gold",
+    "overview": "тип экрана: OLED, Super Retina XDR,диагональ: 6.1 дюйм,объем оперативной памяти: 6144мб,объем встроенной памяти: 128 ГБ,емкость аккумулятора: 2775 мАч",
+    "price": "512 990KZT",
+    "id": 1
+  },
+  {
+    "poster": "https://kaspi.kz/medias/sys_master/images/images/h4a/h16/17090512846878/apple-iphone-12-pro-128gb-serebristyj-100657162-1.png",
+    "title": "Apple iPhone 12 Pro Silver",
+    "overview": "тип экрана: OLED, Super Retina XDR,диагональ: 6.1 дюйм,объем оперативной памяти: 6144мб,объем встроенной памяти: 256 ГБ,емкость аккумулятора: 2775 мАч",
+    "price": "550 990KZT",
+    "id": 2
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h48/h89/26544360652830/apple-iphone-12-pro-128gb-seryj-100657107-1.png",
+    "title": "Apple iPhone 12 Pro Gray",
+    "overview": "тип экрана: OLED, Super Retina XDR,диагональ: 6.1 дюйм,объем оперативной памяти: 6144мб,объем встроенной памяти: 128 ГБ,емкость аккумулятора: 2775 мАч",
+    "price": "512 990KZT",
+    "id": 3
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/hc9/hf3/29215212339230/asus-rog-phone-5-12-256gb-cernyj-101353073-1.jpg",
+    "title": "ASUS ROG Phone 5",
+    "overview": "технология nfc: да,тип экрана: цветной AMOLED, сенсорный,диагональ: 6.78 дюйм,объем оперативной памяти: 12288 МБ,объем встроенной памяти: 256 ГБ,емкость аккумулятора: 6000 мАч",
+    "price": "418 990KZT",
+    "id": 4
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h78/h08/28842562650142/asus-rog-phone-5-12-256gb-belyj-101351923-1.jpg",
+    "title": "ASUS ROG Phone 5",
+    "overview": "технология nfc: да, тип экрана: цветной AMOLED,сенсорный,диагональ: 6.78 дюйм,бъем оперативной памяти: 12288 МБ, объем встроенной памяти: 256 ГБ, емкость аккумулятора: 6000 мАч",
+    "price": "418 990KZT",
+    "id": 5
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h64/h0c/28428915769374/samsung-galaxy-z-fold2-12-256gb-cernyj-100575460-1.jpg",
+    "title": "Samsung Galaxy Z Fold2",
+    "overview": "технология nfc: да,тип экрана: цветной Dynamic AMOLED, 16.78 млн цветов,сенсорный,диагональ: 7.6 дюйм,объем оперативной памяти: 12288 МБ,объем встроенной памяти: 256 ГБ,емкость аккумулятора: 4500 мАч",
+    "price": " 687 990KZT",
+    "id": 6
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h0b/h71/27036702244894/samsung-galaxy-s21-ultra-16-512gb-cernyj-100937424-1.png",
+    "title": "Samsung Galaxy S21 Ultra",
+    "overview": "технология nfc: да,тип экрана: Dynamic AMOLED 2X, Full HD+,диагональ: 6.8 дюйм,объем оперативной памяти: 16384 МБ,объем встроенной памяти: 512 ГБ,емкость аккумулятора: 5000 мАч",
+    "price": "567 990KZT",
+    "id": 7
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h55/had/16731873345566/google-pixel-5-8-128gb-cernyj-100798364-1.png",
+    "title": "Google Pixel 5",
+    "overview": "технология nfc: да,тип экрана: цветной OLED, 16.78 млн цветов, сенсорный,диагональ: 6 дюйм,объем оперативной памяти: 8192 МБ,объем встроенной памяти: 128 ГБ,емкость аккумулятора: 4000 мАч    ",
+    "price": "369 990KZT",
+    "id": 8
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h2c/ha4/16928594362398/google-pixel-4a-6-128gb-cernyj-100798190-1.png",
+    "title": "Google Pixel 4a",
+    "overview": "технология nfc: да,тип экрана: цветной OLED,диагональ: 5.8 дюйм,объем оперативной памяти: 6144 МБ,объем встроенной памяти: 128 ГБ,емкость аккумулятора: 3140 мАч",
+    "price": "219 990KZT",
+    "id": 9
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/hfb/hd5/30071673880606/google-pixel-4a-5g-6-128gb-cernyj-100935261-1.jpg",
+    "title": "Google Pixel 4a 5G",
+    "overview": "технология nfc: да,тип экрана: цветной OLED, диагональ: 6.2 дюйм, объем оперативной памяти: 6144 МБ,объем встроенной памяти: 128 ГБ,емкость аккумулятора: 3885 мАч",
+    "price": "269 990KZT",
+    "id": 10
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h6b/hf6/28846739783710/oneplus-9-pro-12-256gb-serebristyj-101352864-1.jpg",
+    "title": "OnePlus 9 Pro",
+    "overview": "технология nfc: да,тип экрана: цветной AMOLED, сенсорный,диагональ: 6.7 дюйм,объем оперативной памяти: 12288 МБ,объем встроенной памяти: 256 ГБ,емкость аккумулятора: 4500 мАч",
+    "price": "487 900KZT",
+    "id": 11
+  }
+]

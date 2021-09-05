@@ -1,0 +1,100 @@
+[
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h7e/hf6/26622239834142/acer-nitro-5-an515-44-nh-q9ger-006-cernyj-100502951-1.png",
+        "title":"Acer Nitro 5 AN515-44",
+        "overview":"диагональ экрана: 15.6 дюйм,разрешение экрана: 1920x1080,процессор: AMD Ryzen 5 4600H,видеокарта: дискретная NVIDIA GeForce GTX 1650, размер оперативной памяти: 16 ГБ,тип жесткого диска: SSD,общий объем накопителей: 512 ГБ",
+        "price":"379 990KZT",
+        "id":12
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h84/hee/26963456950302/asus-tuf-gaming-f15-fx506li-hn012-90nr03t2-m01550-cernyj-100705458-1.png",
+        "title":"ASUS TUF Gaming F15",
+        "overview":"диагональ экрана: 15.6 дюйм,разрешение экрана: 1920x1080,процессор: Intel Core i5 10300H,видеокарта: NVIDIA GeForce GTX 1650 Ti,размер оперативной памяти: 8 ГБ,тип жесткого диска: SSD,общий объем накопителей: 512 ГБ",
+        "price":"429 990KZT",
+        "id":13
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h1a/h31/29464826740766/asus-rog-strix-g51-g513qe-hn029-90nr05i2-m00550-cernyj-101475947-1.jpg",
+        "title":"ASUS ROG Strix G51",
+        "overview":"диагональ экрана: 15.6 дюйм,разрешение экрана: 1920x1080,процессор: AMD Ryzen 5 5600H,видеокарта: GeForce RTX 3050Ti,размер оперативной памяти: 16 ГБ,тип жесткого диска: SSD,общий объем накопителей: 512 ГБ",
+        "price":"525 990KZT",
+        "id":14
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h58/had/16296821915678/asus-zenbook-ux434fq-a6072t-90nb0rm1-m00960-sinij-100561603-1.png",
+        "title":"ASUS ZenBook",
+        "overview":" диагональ экрана: 14 дюйм,разрешение экрана: 1920x1080,процессор: Intel Core i5 10210U,видеокарта: дискретная NVIDIA GeForce MX350,размер оперативной памяти: 8 ГБ,тип жесткого диска: SSD,общий объем накопителей: 512 ГБ",
+        "price":"606 859KZT ",
+        "id":15
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h71/hb2/29720218107934/apple-macbook-air-2020-13-3-mgna3-serebristyj-100798921-1.jpg",
+        "title":"Apple MacBook Air 2020 13.3 ",
+        "overview":"диагональ экрана: 13.3 дюйм,разрешение экрана: 2560x1600,процессор: Apple M1,размер оперативной памяти: 8 ГБ,тип жесткого диска: SSD,общий объем накопителей: 512 ГБ",
+        "price":"636 990KZT",
+        "id":16
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/he1/h7b/17012622589982/apple-macbook-pro-2020-13-3-mydc2-serebristyj-100797801-1.png",
+        "title":"Apple MacBook Pro 2020 13.3",
+        "overview":"диагональ экрана: 13.3 дюйм,разрешение экрана: 2560x1600,процессор: Apple M1,размер оперативной памяти: 8 ГБ,тип жесткого диска: SSD, общий объем накопителей: 512 ГБ,",
+        "price":"748 990KZT",
+        "id":17
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/hb0/h66/27044071833630/asus-rog-strix-scar-17-g733qs-hg021-t90nr0591-m02010-cernyj-101004051-1.jpg",
+        "title":"ASUS ROG Strix SCAR 17",
+        "overview":"- диагональ экрана: 17.3 дюйм,разрешение экрана: 1920x1080,процессор: Ryzen 9 5900HX,видеокарта: NVIDIA GeForce RTX 3080,размер оперативной памяти: 32 ГБ,тип жесткого диска: SSD,общий объем накопителей: 1000 ГБ",
+        "price":"1 399 990KZT",
+        "id":18
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/haf/h0a/27692689915934/mycomputer-mycomp-sindel-cernyj-101120603-1.jpg",
+        "title":"Mycomputer MyComp",
+        "overview":"тип: системный блок,установленная ос: FreeDOS,процессор: Intel Core i7 8700,размер оперативной памяти: 16 Гб,объем ssd: 480 Гб,видеопроцессор: GeForce RTX 3070,объем hdd: 1000 Гб",
+        "price":"1 300 000KZT",
+        "id":19
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h9d/h22/27486314004510/smartbox-cyber-83-cernyj-101076314-1.jpg",
+        "title":"Smartbox Cyber - 83",
+        "overview":"- тип: системный блок,установленная ос: FreeDOS,процессор: Intel Core i7 10700F,размер оперативной памяти: 16 Гб,объем ssd: 240 Гб,видеопроцессор: GeForce RTX 3070,объем hdd: 1000 Гб",
+        "price":"1 499 999KZT",
+        "id":20
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h33/h81/30462198972446/it-pro-game-evaluation-cernyj-101665379-1.jpg",
+        "title":"IT-PRO GAME-EVALUATION",
+        "overview":"тип: системный блок,установленная ос: ОС не установлена,процессор: Intel Core i9 10900F,размер оперативной памяти: 128 Гб,объем ssd: 1024 Гб,видеопроцессор: NVIDIA GeForce RTX 3060",
+        "price":"1 500 000KZT",
+        "id":21
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/haf/h37/27913452322846/sony-playstation-5-belyj-100746577-1.jpg",
+        "title":"Sony PlayStation 5",
+        "overview":" тип: стационарная,поддержка uhd (4k): да,объем ssd: 825 Гб,тип носителя для игр: UHD Blu-ray",
+        "price":"469 990KZT",
+        "id":22
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h8b/he0/16945757650974/xbox-series-x-1tb-cernyj-100824897-1.png",
+        "title":"Xbox Series X ",
+        "overview":"- тип: стационарная,поддержка uhd (4k): да,объем ssd: 1024 Гб,тип носителя для игр: BD (Blu-ray Disc)",
+        "price":"389 990KZT ",
+        "id":23
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h42/ha5/30406661308446/xbox-series-s-belyj-100793537-1.jpg",
+        "title":"Xbox Series S ",
+        "overview":"- тип: стационарная,поддержка uhd (4k): да,объем ssd: 512 Гб,тип носителя для игр: нет",
+        "price":"264 990KZT",
+        "id":24
+    },
+    {
+        "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h07/hb8/27913466806302/sony-playstation-5-digital-edition-belyj-100746398-1.jpg",
+        "title":"Sony PlayStation 5 Digital Edition",
+        "overview":"- тип: стационарная,поддержка uhd (4k): да,объем ssd: 825 Гб,тип носителя для игр: нет",
+        "price":"426 990KZT",
+        "id":25
+    }
+]

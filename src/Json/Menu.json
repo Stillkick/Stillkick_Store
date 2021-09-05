@@ -1,0 +1,74 @@
+[
+ {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h77/hc9/17090388230174/apple-iphone-12-pro-max-128gb-sinij-100658112-1.png",
+    "title":"Apple iPhone 12 Pro Blue",
+    "overview":"тип экрана: OLED, Super Retina XDR,диагональ: 6.1 дюйм,объем оперативной памяти: 6144мб,объем встроенной памяти: 512 ГБ,емкость аккумулятора: 2775 мАч",
+    "price":"645 900KZT",
+    "poster_hd":"https://cdn-kaspi.kz/shop/medias/sys_master/images/images/h86/hd7/28846739849246/oneplus-9-pro-12-256gb-serebristyj-101352864-1.jpg",
+    "id":0
+ },
+ {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h0b/h71/27036702244894/samsung-galaxy-s21-ultra-16-512gb-cernyj-100937424-1.png",
+    "title": "Samsung Galaxy S21 Ultra",
+    "overview": "технология nfc: да,тип экрана: Dynamic AMOLED 2X, Full HD+,диагональ: 6.8 дюйм,объем оперативной памяти: 16384 МБ,объем встроенной памяти: 512 ГБ,емкость аккумулятора: 5000 мАч",
+    "price": "567 990KZT",
+    "poster_hd":"https://cdn-kaspi.kz/shop/medias/sys_master/images/images/hc0/h5d/16731873017886/google-pixel-5-8-128gb-cernyj-100798364-1.png",
+     "id":7
+ },
+ {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h71/hb2/29720218107934/apple-macbook-air-2020-13-3-mgna3-serebristyj-100798921-1.jpg",
+    "title": "MacBook Air 2020 13.3 ",
+    "overview": "диагональ экрана: 13.3 дюйм,разрешение экрана: 2560x1600,процессор: Apple M1,размер оперативной памяти: 8 ГБ,тип жесткого диска: SSD,общий объем накопителей: 512 ГБ",
+    "price": "636 990KZT",
+    "poster_hd":"https://object.pscloud.io/cms/cms/Photo/img_0_62_2067_0_1_320.webp",
+    "id": 16
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h84/hee/26963456950302/asus-tuf-gaming-f15-fx506li-hn012-90nr03t2-m01550-cernyj-100705458-1.png",
+    "title": "ASUS TUF Gaming F15",
+    "overview": "диагональ экрана: 15.6 дюйм,разрешение экрана: 1920x1080,процессор: Intel Core i5 10300H,видеокарта: NVIDIA GeForce GTX 1650 Ti,размер оперативной памяти: 8 ГБ,тип жесткого диска: SSD,общий объем накопителей: 512 ГБ",
+    "price": "429 990KZT",
+    "poster_hd":"https://object.pscloud.io/cms/cms/Photo/img_0_62_2154_0_6_320.webp",
+    "id": 13
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/haf/h37/27913452322846/sony-playstation-5-belyj-100746577-1.jpg",
+    "title": "Sony PlayStation 5",
+    "overview": " тип: стационарная,поддержка uhd (4k): да,объем ssd: 825 Гб,тип носителя для игр: UHD Blu-ray",
+    "price": "469 990KZT",
+    "poster_hd":"https://cdn-kaspi.kz/shop/medias/sys_master/images/images/h7d/hbd/27913452355614/sony-playstation-5-belyj-100746577-1.jpg",
+    "id": 22
+  },
+  {
+    "poster": "https://cdn-kaspi.kz/medias/sys_master/images/images/h42/ha5/30406661308446/xbox-series-s-belyj-100793537-1.jpg",
+    "title": "Xbox Series S ",
+    "overview": "- тип: стационарная,поддержка uhd (4k): да,объем ssd: 512 Гб,тип носителя для игр: нет",
+    "price": "264 990KZT",
+    "poster_hd":"https://cdn-kaspi.kz/shop/medias/sys_master/images/images/h07/hbb/30406661341214/xbox-series-s-belyj-100793537-1.jpg",
+    "id": 24
+  },
+  {
+    "poster":"https://kaspi.kz/medias/sys_master/images/images/h0a/hd0/30220737151006/xiaomi-mi-robot-vacuum-mop-p-cernyj-100149566-1.jpg",
+    "title":"Пылесос Xiaomi Mi Robot Vacuum-Mop P",
+    "overview":"тип: робот,уборка: сухая и влажная,тип пылесборника: контейнер,потребляемая мощность: 33 Вт,источник питания: аккумулятор",
+    "price":"144 990KZT ",
+    "poster_hd":"https://object.pscloud.io/cms/cms/Photo/img_0_24_696_4_320.webp",
+    "id":30
+},
+{
+    "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h39/h13/26743124983838/samsung-wf8590nlw9dyld-belyj-3600661-1.jpg",
+    "title":"Стиральная машина Samsung WF8590NLW9DYLD",
+    "overview":"установка: отдельностоящая, съемная крышка для встраивания,тип загрузки: фронтальнаяуправление: электронное (интеллектуальное),максимальная загрузка белья: 6 кг,габариты (шxгxв): 60x45x85 см,класс потребления электроэнергии: A",
+    "price":"115 990KZT",
+    "poster_hd":"https://object.pscloud.io/cms/cms/Photo/img_0_8_409_0_320.webp",
+    "id":34
+},
+{
+    "poster":"https://cdn-kaspi.kz/medias/sys_master/images/images/h9b/hb5/15878860734494/samsung-ax60t5080wd-er-belyj-100673489-1.png",
+    "title":"Очиститель воздуха Samsung AX60T5080WD/ER",
+    "overview":"назначение прибора: очистка воздуха,обслуживаемая площадь: 60 кв.м,управление: электронное",
+    "price":"129 990KZT",
+    "poster_hd":"https://object.pscloud.io/cms/cms/Photo/img_0_18_80_12_1_320.webp",
+    "id":40
+}
+]
