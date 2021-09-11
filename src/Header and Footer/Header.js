@@ -59,6 +59,9 @@ function Header({night,setNight}) {
         {night ? "день" : "ночь"}
       </button>
       </header>
+      <div className="navbar">
+        
+      </div>
     </>
   );
 }

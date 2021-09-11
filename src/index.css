@@ -255,7 +255,8 @@ ul.search__results {
   color: #333;
 }
 
-@media (max-width:812px){
+@media  (max-width:812px){  
+
   .gadget-list{
     display: flex;
     flex-direction: column;
@@ -305,6 +306,11 @@ ul.search__results {
     display: flex;
     flex-direction: column;
     align-items: center;
+    align-content: center;
+  }
+
+  .Menu_link{
+    margin: 10px 0;
   }
 }
 
@@ -314,6 +320,5 @@ ul.search__results {
       justify-content: space-between;
       padding: 40px 25px;
   }
-
 
 }
